@@ -1,14 +1,16 @@
-# Método range():🚀
+# Método Range(): 🚀
 
 Listas em Python
 
 # 🔌Como fazer funcionar na sua máquina:
 
 - Instale Python na sua máquina;
+- Instale a biblioteca tal….
 
 # 📋Pré-requisitos do sistema:
 
-> Python instalado
+> Editor de código VSCODE
+> 
 
 ## 🛠️Tecnologias utilizadas:
 
@@ -23,3 +25,4 @@ Listas em Python
 
 > Thiago de Carvalho Gomes
 >
+
